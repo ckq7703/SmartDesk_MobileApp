@@ -4,7 +4,8 @@
 
 ---
 ![SmartDesk Mobile Screenshot](assets/screenshots/SmartDesk-Mobile.png)
-
+---
+![SmartDesk Mobile Screenshot](assets/screenshots/SmartDesk-Mobile-ios.png)
 ## 🚀 Dự án này đem lại gì?
 
 - **Single codebase** cho cả iOS và Android, tối ưu hiệu suất và tiết kiệm công sức phát triển.
