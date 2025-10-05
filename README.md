@@ -1,15 +1,16 @@
-# SmartDesk Mobile App – Quản lý Ticket GLPI trên Di Động
+# SmartDesk Mobile App – Quản lý Ticket SmartDesk trên Di Động
 
-**SmartDesk Mobile App** là ứng dụng di động viết bằng **Flutter** giúp quản lý các ticket hỗ trợ kỹ thuật của hệ thống **GLPI** một cách dễ dàng, nhanh chóng và chuyên nghiệp. Ứng dụng cung cấp giao diện thân thiện, tích hợp đầy đủ các chức năng từ hệ thống GLPI qua REST API, cho phép người dùng đăng nhập, tạo, theo dõi, cập nhật ticket và quản lý profile cá nhân mọi lúc, mọi nơi.  
+**SmartDesk Mobile App** là ứng dụng di động viết bằng **Flutter** giúp quản lý các ticket hỗ trợ kỹ thuật của hệ thống **SmartDesk** một cách dễ dàng, nhanh chóng và chuyên nghiệp. Ứng dụng cung cấp giao diện thân thiện, tích hợp đầy đủ các chức năng từ hệ thống SmartDesk qua REST API, cho phép người dùng đăng nhập, tạo, theo dõi, cập nhật ticket và quản lý profile cá nhân mọi lúc, mọi nơi.  
 
 ---
+![SmartDesk Mobile Screenshot](assets/screenshots/SmartDesk-Mobile.png)
 
 ## 🚀 Dự án này đem lại gì?
 
 - **Single codebase** cho cả iOS và Android, tối ưu hiệu suất và tiết kiệm công sức phát triển.
 - Giao diện người dùng trực quan, thân thiện, hỗ trợ offline toàn diện.
 - Quản lý ticket, FAQ, thông báo và profile cá nhân một cách trực quan và hiệu quả.
-- Tích hợp chặt chẽ với GLPI REST API theo nguyên lý **Clean Architecture**.
+- Tích hợp chặt chẽ với SmartDesk REST API theo nguyên lý **Clean Architecture**.
 - Sử dụng **Provider** và **BLoC** để quản lý trạng thái, dễ mở rộng và kiểm thử.
 
 ---
@@ -36,7 +37,7 @@
   - **HTML**: WebView hiển thị FAQ, hướng dẫn
 - Kiến trúc **Clean Architecture**: Presentation / Domain / Data Layers
 - **State Management**: Provider + BLoC pattern
-- Giao tiếp API: **HTTP Client** tích hợp GLPI REST API, xử lý authentication, lỗi, retry
+- Giao tiếp API: **HTTP Client** tích hợp SmartDesk REST API, xử lý authentication, lỗi, retry
 - Offline cache: **SQLite / Hive** và **Secure Storage** cho tokens nhạy cảm
 
 ---
