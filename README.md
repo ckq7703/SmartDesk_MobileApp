@@ -3,9 +3,13 @@
 **SmartDesk Mobile App** là ứng dụng di động viết bằng **Flutter** giúp quản lý các ticket hỗ trợ kỹ thuật của hệ thống **SmartDesk** một cách dễ dàng, nhanh chóng và chuyên nghiệp. Ứng dụng cung cấp giao diện thân thiện, tích hợp đầy đủ các chức năng từ hệ thống SmartDesk qua REST API, cho phép người dùng đăng nhập, tạo, theo dõi, cập nhật ticket và quản lý profile cá nhân mọi lúc, mọi nơi.  
 
 ---
-![SmartDesk Mobile Screenshot](assets/screenshots/SmartDesk-Mobile.png)
+![SmartDesk Mobile Screenshot](assets/screenshots/SmartDesk-Mobile.png)  
+*Giao diện đăng nhập trên Android*
+
 ---
-![SmartDesk Mobile Screenshot](assets/screenshots/SmartDesk-Mobile-ios.png)
+
+![SmartDesk Mobile Screenshot](assets/screenshots/SmartDesk-Mobile-ios.png)  
+*Giao diện đăng nhập trên iOS*
 ## 🚀 Dự án này đem lại gì?
 
 - **Single codebase** cho cả iOS và Android, tối ưu hiệu suất và tiết kiệm công sức phát triển.
