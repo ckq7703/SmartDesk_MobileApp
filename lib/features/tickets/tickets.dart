@@ -1,0 +1,10 @@
+export 'presentation/pages/home_page.dart';
+export 'presentation/pages/ticket_list_page.dart';
+export 'presentation/pages/ticket_detail_page.dart';
+export 'presentation/pages/create_ticket_page.dart';
+export 'presentation/widgets/ticket_item.dart';
+export 'presentation/widgets/feature_card.dart';
+export 'presentation/widgets/quick_action_button.dart';
+export 'data/repositories/ticket_repository.dart';
+export 'domain/models/ticket_model.dart';
+export 'domain/models/followup_model.dart';
