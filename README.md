@@ -10,6 +10,12 @@
 
 ![SmartDesk Mobile Screenshot](assets/screenshots/SmartDesk-Mobile-ios.png)  
 *Giao diện đăng nhập trên iOS*
+
+---
+<video src="assets/screenshots/a.mp4" width="320" height="640" controls>
+  Trình duyệt không hỗ trợ video.
+</video>
+
 ## 🚀 Dự án này đem lại gì?
 
 - **Single codebase** cho cả iOS và Android, tối ưu hiệu suất và tiết kiệm công sức phát triển.
